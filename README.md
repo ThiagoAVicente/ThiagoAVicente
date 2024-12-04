@@ -6,6 +6,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAVicente&layout=compact&hide=html&theme=dark)
 
-## 📊 My Commit Activity
-
-![Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoAVicente&theme=dark)
