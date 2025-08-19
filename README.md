@@ -1,4 +1,4 @@
-# 💻 Thiago A. Vicente
+# 💻 Thiago Vicente
 
 👋 Hi, I’m **Thiago**, a **Computer Engineering** student at the **University of Aveiro**, originally from Cape Verde.  
 I’m passionate about **Artificial Intelligence, Machine Learning, and Computer Networks**.
