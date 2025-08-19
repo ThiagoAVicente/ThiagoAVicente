@@ -19,7 +19,7 @@ I’m passionate about **Artificial Intelligence, Machine Learning, and Computer
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](www.linkedin.com/in/thiagoavicente)
+- 💼 [LinkedIn](https://www.linkedin.com/in/thiagoavicente)
 - ✉️ tavcnt@gmail.com
 
 ---
