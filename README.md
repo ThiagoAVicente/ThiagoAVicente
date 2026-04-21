@@ -1,35 +1,41 @@
 # 💻 Thiago Vicente
 
+### 🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
+**Backend & Infrastructure**
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-
-  <!-- Frameworks / Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width "40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,linux" />  <img src="https://cdn.simpleicons.org/caddy" width="40"/>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoAVicente&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark) 
+**Data & Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,mysql,postgres" />
+  <img src="https://cdn.simpleicons.org/qdrant/white" height="48" width="48" style="margin-left: 5px;" />
+</p>
 
+**Tools & Others**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://cdn.simpleicons.org/latex/white" height="48" width="48" style="margin-left: 5px;" />
+</p>
 
-## 📫 Connect with Me  
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThiagoAVicente&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark" height="170" />
+</p>
+
+---
+
+### 📫 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagoavicente" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:tavcnt@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
