@@ -17,11 +17,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats-weld-nine-55.vercel.app/api?username=ThiagoAVicente&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=dark" height="170" />
-</p>
-
----
 <p align="left">
   <a href="https://www.linkedin.com/in/thiagoavicente" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
